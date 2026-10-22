@@ -1,0 +1,16 @@
+# Python and notebook working files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local raw recordings and generated intermediate audio
+Data/HW1_M/
+Data/Denoized/
+Data/resampled/
+Data/Samples/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
